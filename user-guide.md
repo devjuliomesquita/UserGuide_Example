@@ -75,11 +75,10 @@ Ao acessar a aplicação, você verá no canto superior direito um ícone com a 
 - **Confirme o cadastro**: Revise as informações e clique no botão "Cadastrar" para finalizar.
 - **Confirme o cadastro via e-mail**: Após o cadastro, você receberá uma email de confirmação de cadastro. Assim poderá retornar para à tela de login, inserir seu CPF e senha recém-criados, e acessar o sistema. 
 
-<div style="width: 100%; height: 50vh; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+<div style="width: 100%; height: 50vh; overflow: hidden; display: flex; justify-content: center; align-items: center; padding-bottom: 10px;">
     <img src="https://github.com/devjuliomesquita/UserGuide_Example/blob/main/pictures/3.png" 
     alt="Tela 3" style="width: 100%; height: 100%; object-position: top; object-fit: cover;"/>
 </div>
-<div style= "height: 2vh;"></div>
 
 > [!NOTE]
 > 
