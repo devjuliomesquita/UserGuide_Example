@@ -44,7 +44,7 @@ Se a aplicação for instalada localmente:  Ver se necessário
 Ao acessar a aplicação, você verá no canto superior direito um ícone com a frase **Acesse sua conta** ao clicar será encaminhado para a tela de Login.
 
 <div style="width: 100px; height: 100px; overflow: hidden;">
-    <img src="" alt="Tela 1" style="width: 150px; height: auto;"/>
+    <img src="https://github.com/devjuliomesquita/UserGuide_Example/blob/main/pictures/1.png" alt="Tela 1" style="width: 150px; height: auto;"/>
 </div>
 
 #### Realizando o login
