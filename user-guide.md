@@ -56,6 +56,10 @@ Ao acessar a aplicação, você verá no canto superior direito um ícone com a 
 >
 >Caso seja uma entidade social clique no botão **Entidade Social** ao lado do botão **Pessoa Física** e repita os passos anteriores alterando o CPF pelo seu CNPJ.
 
+<div style="width: 100%; height: 50vh; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/devjuliomesquita/UserGuide_Example/blob/main/pictures/2.png" 
+    alt="Tela 2" style="width: 100%; height: 100%; object-position: top; object-fit: cover;"/>
+</div>
 
 #### Esqueci minha senha
 - Se você não se lembra da sua senha, clique no botão "Esqueceu sua Senha? Recupere-a agora." abaixo do campo de login. Você será redirecionado para uma página onde poderá redefinir sua senha seguindo as instruções.
@@ -68,6 +72,11 @@ Ao acessar a aplicação, você verá no canto superior direito um ícone com a 
 - **Preencha os dados solicitados**: Digite seus dados pessoais, como nome, CPF, e-mail e etc.
 - **Confirme o cadastro**: Revise as informações e clique no botão "Cadastrar" para finalizar.
 - **Confirme o cadastro via e-mail**: Após o cadastro, você receberá uma email de confirmação de cadastro. Assim poderá retornar para à tela de login, inserir seu CPF e senha recém-criados, e acessar o sistema. 
+
+<div style="width: 100%; height: 50vh; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/devjuliomesquita/UserGuide_Example/blob/main/pictures/3.png" 
+    alt="Tela 3" style="width: 100%; height: 100%; object-position: top; object-fit: cover;"/>
+</div>
 
 > [!NOTE]
 > 
