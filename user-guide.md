@@ -78,6 +78,7 @@ Ao acessar a aplicação, você verá no canto superior direito um ícone com a 
     alt="Tela 3" style="width: 100%; height: 100%; object-position: top; object-fit: cover;"/>
 </div>
 
+
 > [!NOTE]
 > 
 > Caso seja uma **Entidade Social** os passos serão bem semelhantes ao da pessoa tendo divergência apenas na confirmação de cadastro por email. Onde a instituição receberá o e-mail confirmando sua solicitação de cadastro. Cadastro esse que estará em análise para aprovação. Após aprovação será enviado um novo e-mail de confirmação de cadastro com um link de primeiro acesso onde será possível cadastrar sua senha seguindo as instruções informadas.
