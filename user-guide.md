@@ -79,7 +79,7 @@ Ao acessar a aplicação, você verá no canto superior direito um ícone com a 
     <img src="https://github.com/devjuliomesquita/UserGuide_Example/blob/main/pictures/3.png" 
     alt="Tela 3" style="width: 100%; height: 100%; object-position: top; object-fit: cover;"/>
 </div>
-
+<div>    <br></div>
 
 > [!NOTE]
 > 
