@@ -55,8 +55,9 @@ Ao acessar a aplicação, você verá no canto superior direito um ícone com a 
 
 <div style="width: 100%; height: 50vh; overflow: hidden; display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/devjuliomesquita/UserGuide_Example/blob/main/pictures/2.png" 
-    alt="Tela 2" style="width: 100%; height: 100%; object-position: top; object-fit: cover;"/>
-</div>
+    alt="Tela 2" style="width: 100%; height: 100%; object-position: top; object-fit: cover;"/>  
+</div>  
+
 
 > [!NOTE]
 >
