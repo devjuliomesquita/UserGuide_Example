@@ -52,7 +52,7 @@ Ao acessar a aplicação, você verá no canto superior direito um ícone com a 
 - **Informe seu CPF**: No primeiro campo, digite o número do seu CPF.
 - **Insira sua senha**: No segundo campo, digite a senha cadastrada.
 - **Clique em "Entrar**: Após preencher seus dados, clique no botão "Entrar" para acessar sua área restrita.
-> [!INFO]
+> [!NOTE]
 >
 >Caso seja uma entidade social clique no botão **Entidade Social** ao lado do botão **Pessoa Física** e repita os passos anteriores alterando o CPF pelo seu CNPJ.
 
@@ -69,7 +69,7 @@ Ao acessar a aplicação, você verá no canto superior direito um ícone com a 
 - **Confirme o cadastro**: Revise as informações e clique no botão "Cadastrar" para finalizar.
 - **Confirme o cadastro via e-mail**: Após o cadastro, você receberá uma email de confirmação de cadastro. Assim poderá retornar para à tela de login, inserir seu CPF e senha recém-criados, e acessar o sistema. 
 
-> [!INFO]
+> [!NOTE]
 > 
 > Caso seja uma **Entidade Social** os passos serão bem semelhantes ao da pessoa tendo divergência apenas na confirmação de cadastro por email. Onde a instituição receberá o e-mail confirmando sua solicitação de cadastro. Cadastro esse que estará em análise para aprovação. Após aprovação será enviado um novo e-mail de confirmação de cadastro com um link de primeiro acesso onde será possível cadastrar sua senha seguindo as instruções informadas.
 
