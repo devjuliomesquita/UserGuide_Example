@@ -43,8 +43,9 @@ Se a aplicação for instalada localmente:  Ver se necessário
 ### Login e Registro
 Ao acessar a aplicação, você verá no canto superior direito um ícone com a frase **Acesse sua conta** ao clicar será encaminhado para a tela de Login.
 
-<div style="width: 100px; height: 100px; overflow: hidden;">
-    <img src="https://github.com/devjuliomesquita/UserGuide_Example/blob/main/pictures/1.png" alt="Tela 1" style="width: 150px; height: auto;"/>
+<div style="width: 100%; height: 50vh; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/devjuliomesquita/UserGuide_Example/blob/main/pictures/1.png" 
+    alt="Tela 1" style="width: 100%; height: 100%; object-position: top; object-fit: cover;"/>
 </div>
 
 #### Realizando o login
